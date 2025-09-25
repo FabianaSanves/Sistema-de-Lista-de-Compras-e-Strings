@@ -1,4 +1,4 @@
-## 🛒 PBL: Sistema de Lista de Compras / Desafio: Engenheiro de Strings
+## 🛒 PBL: Sistema de Lista de Compras
 
 ### 📄 Sobre o Projeto
 Este projeto é um script básico em JavaScript que demonstra a manipulação fundamental de arrays para gerenciar uma lista de compras simples. O foco é na utilização dos principais métodos de array para realizar as operações de uma lista.
